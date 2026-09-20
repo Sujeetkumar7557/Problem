@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0039-combination-sum) |
 ## String
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
