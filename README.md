@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0047-permutations-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sujeetkumar7557/https-github.com-Sujeetkumar7557-Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
